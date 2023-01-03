@@ -1,4 +1,4 @@
-# [rsschool-cv](https://mrks77.github.io/rsschool-cv/)
+
 # Sultanov Ruslan
 
 ## My Contact Info:
