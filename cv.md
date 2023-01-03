@@ -3,7 +3,6 @@
 
 ## My Contact Info:
 
- - List item
  - **Address:** Cra. 29a #5 Sur - 332, El Poblado, Medellin, Antioquia
  -    **Phone:**  +57 305 362-8717
  -    **GitHub:** [cruz101](https://github.com/cruz101)
