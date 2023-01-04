@@ -1,4 +1,3 @@
-
 # Sultanov Ruslan
 
 ## My Contact Info:
@@ -15,7 +14,7 @@ My goal is to become independent from circumstances and the material world.  It 
 I tried to learn such languages as:
 -***С#*** 
 -***Java***
--***Cotlin***
+-***Kotlin***
 but most of all i liked the language ***JavaScript***!
 
 ---
