@@ -1,4 +1,4 @@
-# [rsschool-cv](https://mrks77.github.io/rsschool-cv/)
+# [rsschool-cv](https://cruz101.github.io/rsschool-cv/)
 # Sultanov Ruslan
 
 ## My Contact Info:
@@ -16,7 +16,7 @@ My goal is to become independent from circumstances and the material world.  It 
 I tried to learn such languages as:
 -***С#*** 
 -***Java***
--***Cotlin***
+-***Kotlin***
 but most of all i liked the language ***JavaScript***!
 
 ---
